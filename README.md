@@ -1,8 +1,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosachinski&layout=compact&icons=true&theme=radical)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<p align="left">
+<a href="https://www.linkedin.com/in/antoniosachinski/"><img src="https://img.shields.io/badge/-%20Antonio%20Sachinski%20-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:as.sachinski@gmail.com"><img src="https://img.shields.io/badge/-as.sachinski@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
+
+
